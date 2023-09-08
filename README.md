@@ -1,6 +1,6 @@
 - 👋 Hi, it's me.
 - 👀 Know the python programming language
-- 🌱 Am currently learning web designing and javascript.
+- 🌱 Am currently learning web designing and well, javascript.
 
 <!---
 Mproder/Mproder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
